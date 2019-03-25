@@ -1,0 +1,2 @@
+<0x0 sparse matrix of type '<type 'numpy.float64'>'
+	with 0 stored elements in Compressed Sparse Row format>
