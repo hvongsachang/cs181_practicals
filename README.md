@@ -1,1 +1,3 @@
-# cs181_practicals
+# CS181 Practicals
+
+Code for each practical assignment.
